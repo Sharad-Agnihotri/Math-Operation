@@ -12,9 +12,10 @@ else:
     print("It is an odd number")
 
 
-for i in range(2, num):
+for i in range(1, num):
     if num % i == 0:
             print("It is not a prime number")
             break
     else:
         print("It is a prime number")
+
