@@ -1,6 +1,6 @@
 import sys
 
-if len(sys.argv==2):
+if len(sys.argv)==2:
     num=int(sys.argv[1])
 else:
     num=3
