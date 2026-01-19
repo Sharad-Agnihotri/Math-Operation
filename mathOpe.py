@@ -10,7 +10,7 @@ if num%2==0:
 else:
     print("It is a odd number")
 
-for i in range(1,11):
+for i in range(2,num):
     if num%i==0:
         print("it is not a prime number")
     else:
